@@ -1,0 +1,9 @@
+.button {
+  text-align: center;
+  font-size: 23px;
+  font-weight: 600;
+  padding: 10px;
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+}
